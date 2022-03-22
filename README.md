@@ -1,6 +1,6 @@
 # snap_freezing_field
 
-This data accompanies the publication: Snap-freezing in the field: effect of sample holding time on performance of bactericidal assays in Integrative and Comparative Biology.
+This data accompanies the publication: Snap-freezing in the field: effect of sample holding time on performance of bactericidal assays in Integrative and Comparative Biology. https://doi.org/10.1093/icb/icac007
 
 Column header ID descriptions are below:
 
